@@ -16,5 +16,5 @@
 - IMU filters: Kalman, Complementary
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bohdanhlovatskyi&show_icons=false&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bohdanhlovatskyi&layout=demo&theme=tokyonight&hide=css,html,JavaScript)](https://github.com/bohdanhlovatskyi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bohdanhlovatskyi&layout=demo&theme=tokyonight&hide=css,html,JavaScript,jupyter%20notebook )](https://github.com/bohdanhlovatskyi/github-readme-stats)
 
