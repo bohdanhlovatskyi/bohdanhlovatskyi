@@ -14,7 +14,8 @@
 ## Currently working on:
 - Smart Parking system for Cypress Semiconductor student project competition
 - IMU filters: Kalman, Complementary
+- Learning C language :=)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bohdanhlovatskyi&show_icons=false&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bohdanhlovatskyi&layout=demo&theme=tokyonight&hide=css,html,JavaScript,jupyter%20notebook )](https://github.com/bohdanhlovatskyi/github-readme-stats)
 
